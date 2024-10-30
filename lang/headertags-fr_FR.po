@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Headertags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-18 04:06+0000\n"
+"PO-Revision-Date: 2021-04-19 10:57+0000\n"
+"Last-Translator: Fotso Fonkam\n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1\n"
+"X-Domain: headertags"
+
+#. Description of the plugin
+msgid "Add site description and keywords in your WordPress website's header."
+msgstr ""
+"Ce plugin permet d'ajouter les balises <code>meta description</code> et "
+"<code>meta keywords</code> dans l'en-tête de votre site ou blog."
+
+#: inc/menu.php:62 inc/menu.php:101
+msgid "Add tags automatically"
+msgstr "Ajouter automatiquement"
+
+#: inc/save-options.php:5
+msgid "An unknown error occured"
+msgstr "Une erreur inconnue s'est produite"
+
+#: inc/menu.php:72 inc/menu.php:111
+msgid "Deactivate header tags"
+msgstr "Désactiver les balises d'en-tête"
+
+#: inc/menu.php:67 inc/menu.php:106
+msgid "Enter tags manually"
+msgstr "Entrer les balises manuellement"
+
+#: inc/menu.php:27
+msgid ""
+"Enter the default description for your website. This will be used on pages "
+"where the description is not specified."
+msgstr ""
+"Entrez le contenu par défaut de la méta description. Il sera utilisé sur les "
+"pages où aucune description n'est renseignée"
+
+#: inc/menu.php:41
+msgid ""
+"Enter the default keywords for your website. This will be used on pages "
+"where keywords are not specified."
+msgstr ""
+"Entrez le contenu par défaut de la méta keywords. Il sera utilisé sur les "
+"pages où aucun mot clé n'est renseigné"
+
+#. Author of the plugin
+msgid "Fotso Fonkam"
+msgstr "Fotso Fonkam"
+
+#: inc/menu.php:4 inc/menu.php:5
+msgid "Header Tags"
+msgstr "Balises d'en-tête"
+
+#: inc/menu.php:73 inc/menu.php:112
+msgid "Header tags will be deactivated for your posts and will not show"
+msgstr "Les balises d'en-tête seront désactivées et ne s'afficheront pas"
+
+#: inc/menu.php:17
+msgid "Headertags"
+msgstr "Balises d'en-tête"
+
+#. Author URI of the plugin
+msgid "http://www.iamfotso.cm"
+msgstr "http://www.iamfotso.cm"
+
+#. Name of the plugin
+#| msgid "WP Headertags"
+msgid "IAF Headertags"
+msgstr "IAF Headertags"
+
+#: inc/menu.php:56
+msgid "Manage description and keywords for your posts."
+msgstr "Gérez la description et les mots clés pour vos articles"
+
+#: inc/menu.php:26 inc/metaboxes.php:21
+msgid "Meta Description"
+msgstr "Balise Description"
+
+#: inc/menu.php:40 inc/metaboxes.php:33
+msgid "Meta Keywords"
+msgstr "Balise mots clés"
+
+#: inc/metaboxes.php:11
+msgid "Meta Tags"
+msgstr "Balises Meta"
+
+#: inc/menu.php:63 inc/menu.php:102
+msgid ""
+"Post excerpt will be used as description, while post tags will be used as "
+"keywords"
+msgstr ""
+"L'extrait de l'article sera utilisé comme description, tandis que les "
+"étiquettes seront utilisées comme mots clés"
+
+#: inc/menu.php:55
+msgid "Posts"
+msgstr "Articles"
+
+#: inc/menu.php:123
+msgid "Update Settings"
+msgstr "Enregistrer les préférences"
+
+#: inc/menu.php:18
+msgid ""
+"Update the information below to configure the desciption and keywords of "
+"your platform."
+msgstr ""
+"Configurez la description et les mots clés en mettant les informations ci-"
+"dessous à jour"
+
+#: inc/save-options.php:10
+msgid "You did not provide default description"
+msgstr "Vous n'avez pas fourni de description"
+
+#: inc/save-options.php:17
+msgid "You did not provide default keywords"
+msgstr "Vous n'avez fourni aucun mot cléd"
+
+#: inc/activate.php:5
+msgid "You must update your WordPress version before you can use this plugin."
+msgstr ""
+"Vous devez mettre votre version de WordPress pour pouvoir utiliser ce plugin."
+
+#: inc/menu.php:68 inc/menu.php:107
+msgid "You will have to add description and keywords for each post"
+msgstr ""
+"Vous devrez ajouter la description et les mots clés pour chaque article"
+
+#: inc/save-options.php:38
+msgid "Your options were successfully saved"
+msgstr "Vous modifications ont bel et bien enregistrées"
